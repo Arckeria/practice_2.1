@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Мастер и Маргарита",
+    "author": "Булгаков",
+    "year": 1967,
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "Преступление и наказание",
+    "author": "Достоевский",
+    "year": 1866,
+    "available": false
+  },
+  {
+    "id": 3,
+    "title": "Война и мир",
+    "author": "Толстой",
+    "year": 1869,
+    "available": true
+  },
+  {
+    "id": 4,
+    "title": "Евгений Онегин",
+    "author": "Пушкин",
+    "year": 1833,
+    "available": true
+  },
+  {
+    "id": 5,
+    "title": "Мастер и Маргарита",
+    "author": "Булгаков",
+    "year": 1967,
+    "available": true
+  },
+  {
+    "id": 6,
+    "title": "Преступление и наказание",
+    "author": "Достоевский",
+    "year": 1866,
+    "available": true
+  }
+]
